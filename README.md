@@ -1,5 +1,6 @@
 # Analysis, Design and Software Architecture (Autumn 2020)
 
+Setup
 ```
 dotnet new sln -o unit-testing-using-dotnet-test
 cd unit-testing-using-dotnet-test
@@ -11,12 +12,14 @@ dotnet add ./LeapYear.Tests/LeapYear.Tests.csproj reference ./LeapYear/LeapYear.
 dotnet sln add ./LeapYear.Tests/LeapYear.Tests.csproj
 ```
 
-from project dir
+## Usage
+
+From project dir
 ```
 dotnet run
 ```
 
-from test dir
+From test dir
 ```
 dotnet test
 ```
