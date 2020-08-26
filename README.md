@@ -12,7 +12,7 @@ dotnet add ./LeapYear.Tests/LeapYear.Tests.csproj reference ./LeapYear/LeapYear.
 dotnet sln add ./LeapYear.Tests/LeapYear.Tests.csproj
 ```
 
-## Usage
+## Development
 
 From project dir
 ```
