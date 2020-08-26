@@ -1,0 +1,13 @@
+C:\Users\krist\Documents\GitHub\bdsa\Assignment00\unit-testing-using-dotnet-test\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.exe
+C:\Users\krist\Documents\GitHub\bdsa\Assignment00\unit-testing-using-dotnet-test\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.deps.json
+C:\Users\krist\Documents\GitHub\bdsa\Assignment00\unit-testing-using-dotnet-test\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.runtimeconfig.json
+C:\Users\krist\Documents\GitHub\bdsa\Assignment00\unit-testing-using-dotnet-test\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.runtimeconfig.dev.json
+C:\Users\krist\Documents\GitHub\bdsa\Assignment00\unit-testing-using-dotnet-test\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.dll
+C:\Users\krist\Documents\GitHub\bdsa\Assignment00\unit-testing-using-dotnet-test\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.pdb
+C:\Users\krist\Documents\GitHub\bdsa\Assignment00\unit-testing-using-dotnet-test\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.csprojAssemblyReference.cache
+C:\Users\krist\Documents\GitHub\bdsa\Assignment00\unit-testing-using-dotnet-test\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.AssemblyInfoInputs.cache
+C:\Users\krist\Documents\GitHub\bdsa\Assignment00\unit-testing-using-dotnet-test\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.AssemblyInfo.cs
+C:\Users\krist\Documents\GitHub\bdsa\Assignment00\unit-testing-using-dotnet-test\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\krist\Documents\GitHub\bdsa\Assignment00\unit-testing-using-dotnet-test\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.dll
+C:\Users\krist\Documents\GitHub\bdsa\Assignment00\unit-testing-using-dotnet-test\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.pdb
+C:\Users\krist\Documents\GitHub\bdsa\Assignment00\unit-testing-using-dotnet-test\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.genruntimeconfig.cache
